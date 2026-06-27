@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "pandesalsmp-9hvI.aternos.me",
+    "port": 32804,
     "version": "",
     "try-creative": false
   },
@@ -23,6 +23,7 @@
       "password": "chalol78"
     },
     "anti-afk": {
+      
       "enabled": true,
       "sneak": true
     },
